@@ -1,0 +1,14 @@
+.linha{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;  
+}
+h1{
+  text-align: center;
+  background-color: sandybrown;
+}
+.App{
+  margin: auto;
+  max-width: 900px;
+  background-image: url(./imagem/87-872004_baixar-wallpaper-dinheiro-moedas-muitos-asitico-coins-in.jpg);
+}
